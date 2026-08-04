@@ -104,14 +104,6 @@ An AI-powered desktop application that detects confidential information before s
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Manjunath1356&theme=tokyonight&margin-w=15&no-frame=true&row=2&column=4"/>
-</p>
-
----
-
 # 📊 Contribution Graph
 
 <p align="center">
