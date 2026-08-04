@@ -2,12 +2,12 @@
 
 # Hi 👋, I'm Ande Manjunath
 
-### 🎓 B.Tech CSE Student | 🛡️ Cybersecurity Enthusiast | 🤖 AI Developer
+### 🛡️ Cybersecurity Enthusiast | 🤖 AI Developer | 💻 B.Tech CSE Student
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=0EA5E9&center=true&vCenter=true&width=650&lines=Cybersecurity+Enthusiast;AI+Developer;Python+Developer;Java+Programmer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=26&duration=3500&pause=1200&color=00C2FF&center=true&vCenter=true&width=700&lines=Cybersecurity+Enthusiast;AI+Developer;Python+Developer;Java+Programmer;Open+Source+Learner;Always+Learning+New+Things" />
 
 <p>
-<img src="https://komarev.com/ghpvc/?username=Manjunath1356&label=Profile%20Views&color=0ea5e9&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=Manjunath1356&label=Profile+Views&color=0ea5e9&style=for-the-badge" />
 </p>
 
 </div>
@@ -18,19 +18,19 @@
 
 🎓 B.Tech Computer Science Engineering Student
 
-🛡️ Passionate about Cybersecurity, Ethical Hacking & AI
+🛡️ Passionate about Cybersecurity & Ethical Hacking
 
-🤖 Interested in AI Security & Secure Software Development
+🤖 Exploring Artificial Intelligence and AI Security
 
 🐍 Python Developer
 
 ☕ Java Programmer
 
-🌐 Learning Cloud Security & Penetration Testing
+🌐 Interested in Cloud Security and Secure Software Development
 
-📚 Exploring Operating Systems, Computer Networks & Artificial Intelligence
+💡 Love building projects that solve real-world security problems
 
-🚀 Building AI-powered Security Applications
+🚀 Continuously learning new technologies every day
 
 ---
 
@@ -38,84 +38,76 @@
 
 ## 🛡️ AI Screenshot Leak Detector
 
-An AI-powered desktop application that detects confidential information before screenshots or screen sharing to prevent accidental data leaks.
+An AI-powered desktop application that detects confidential information before screenshots or screen sharing to help prevent accidental data leakage.
 
 ### ✨ Features
 
-- 🔍 OCR-based Text Detection
-- 🤖 AI-Powered Sensitive Data Analysis
-- 🔐 Detects Confidential Information
-- 🚨 Real-Time Privacy Alerts
+- 🔍 OCR-Based Text Extraction
+- 🤖 AI-Powered Content Analysis
+- 🔐 Sensitive Information Detection
+- 🚨 Privacy Risk Alerts
 - 💻 Desktop Application
-- 🛡️ Prevents Data Leakage
+- 🛡️ Prevents Confidential Data Leakage
 
 ---
 
 # 💻 Tech Stack
 
-## 👨‍💻 Programming Languages
+### 👨‍💻 Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,java,c,cpp"/>
 </p>
 
-## 🤖 AI & Development
+### 🤖 AI & Development
 
 <p>
 <img src="https://skillicons.dev/icons?i=tensorflow,opencv,vscode"/>
 </p>
 
-## ⚙️ Tools & Platforms
+### ⚙️ Tools & Platforms
 
 <p>
-<img src="https://skillicons.dev/icons?i=linux,bash,docker,git,github"/>
+<img src="https://skillicons.dev/icons?i=git,github,linux,bash,docker"/>
 </p>
 
-## 🔐 Cybersecurity
+### 🔐 Cybersecurity
 
-Burp Suite • Wireshark • Nmap • Metasploit • Nessus • OWASP ZAP
+- Burp Suite
+- Wireshark
+- Nmap
+- Metasploit
+- Nessus
+- OWASP ZAP
 
 ---
 
-# 📚 Currently Learning
+# 🌱 Currently Learning
 
 - Artificial Intelligence
-- Cybersecurity
-- Penetration Testing
-- Cloud Security
-- Secure Software Development
 - AI Security
+- Cybersecurity
+- Cloud Security
+- Ethical Hacking
+- Penetration Testing
+- Network Security
 
 ---
 
-# 🎯 Career Goals
+# 🎯 Goals
 
 - 🚀 Become an AI Security Engineer
-- 🔐 Build Open Source Security Tools
-- 🌍 Contribute to Cybersecurity Projects
+- 🔐 Build AI-Powered Cybersecurity Tools
+- 🌍 Contribute to Open Source Projects
+- 🛡️ Learn Advanced Malware Analysis
 - ☁️ Master Cloud Security
-- 🤖 Develop AI-Powered Security Solutions
 
 ---
 
-# 📈 GitHub Stats
+# 🏆 GitHub Trophies
 
 <p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Manjunath1356&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Manjunath1356&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=Manjunath1356&theme=tokyonight&hide_border=true"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=Manjunath1356&theme=tokyonight&margin-w=15&no-frame=true&row=2&column=4"/>
 </p>
 
 ---
@@ -123,33 +115,12 @@ Burp Suite • Wireshark • Nmap • Metasploit • Nessus • OWASP ZAP
 # 📊 Contribution Graph
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=Manjunath1356&theme=tokyo-night"/>
-
 </p>
 
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Manjunath1356&theme=tokyonight&margin-w=15&no-frame=true"/>
-
-</p>
-
----
-
-# 🏅 Certifications (Planned)
-
-- 🎓 Google Cybersecurity Professional Certificate
-- ☁️ AWS Cloud Practitioner
-- 🛡️ CompTIA Security+
-- 👨‍💻 Certified Ethical Hacker (CEH)
-
----
-
-# 🌟 Quote
+# 💡 Favorite Quote
 
 > **"Security is not a product, it's a continuous process."**
 
@@ -177,10 +148,10 @@ Burp Suite • Wireshark • Nmap • Metasploit • Nessus • OWASP ZAP
 
 <div align="center">
 
-### 💙 Thanks for visiting my profile!
+### 🌟 Thanks for Visiting My Profile!
 
-⭐ If you like my projects, consider giving them a star!
+💙 *Passionate about AI, Cybersecurity, and Building Secure Software.*
 
-*"Learning today. Securing tomorrow."* 🚀
+⭐ **If you like my projects, don't forget to star them!**
 
 </div>
